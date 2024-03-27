@@ -86,10 +86,6 @@ main h3 {
 main img {
 	padding-bottom: 1em;
 	float: right;
-	margin-top: .25em;
-	margin-bottom: .25em;
-	margin-left: .25em;
-	border: 1px #000000;
 }
 main p {
 	padding-bottom: .5em;

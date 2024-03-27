@@ -15,6 +15,12 @@ body {
     background-color: #fffded;
 }
 
+h1 {
+	font-size: 150%;
+	padding-top: .5em;
+	padding-bottom: .25em;
+	margin: 0;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
@@ -79,6 +85,11 @@ main h3 {
 }
 main img {
 	padding-bottom: 1em;
+	float: right;
+	margin-top: .5em;
+	margin-bottom: .5em;
+	margin-left: .5em;
+	border: 1px #000000;
 }
 main p {
 	padding-bottom: .5em;

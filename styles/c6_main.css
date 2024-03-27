@@ -17,11 +17,16 @@ body {
 section {
 	width: 525px;
 	float: right;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 
 aside {
 	width: 215px;
 	float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -55,12 +60,8 @@ header img {
 	text-shadow: 2px 2px 2px #800000;
 }
 /* the styles for the main content */
-main {
-	clear: left;
-}
-main {
-	padding: 0 30px;
-}
+
+
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
